@@ -3124,5 +3124,11 @@
     "type": "limit",
     "joke": "Quelles sont vos matières préférées ?",
     "answer": "Maths et Dessin !"
+  },
+  {
+    "id" : 531,
+    "type" : "dark",
+    "joke" : "Quelle est la difference entre une Geox et George Floyd ?",
+    "answer" : "Le Geox respire..."
   }
 ]
